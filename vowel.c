@@ -2,7 +2,7 @@
 void main()
 {
 char c;
-int islowercasevowel,isuppercasevowel;
+int islvowel,isvowel;
 printf("Enter a letter: ");
 scanf("%c",&c);
 if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U')
