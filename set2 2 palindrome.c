@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
 	int n,r,a,sum=0;
-	printf("enter the number");
+	printf("Enter the number :");
 	scanf("%d",&n);
 	a=n;
   while(a!=0)
